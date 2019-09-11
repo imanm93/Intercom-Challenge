@@ -34,3 +34,7 @@ As an alternative, you may also run this file in a docker container to avoid the
 ```
 docker-compose up
 ```
+
+### Author
+
+Iman Kalyan Majumdar <iman.m93@gmail.com>
